@@ -1,0 +1,18 @@
+
+h
+java:S1192N"LDefine a constant instead of duplicating this literal "MM/dd/yyyy" 15 times.(ŒÃèQ8öõ—Çµ.
+c
+java:S1192O"FDefine a constant instead of duplicating this literal "Table" 4 times.(çúé“8¾´æÇµ.
+M
+java:S1481="+Remove this unused "sheet1" local variable.(»ÚÖ’ıÿÿÿÿ8ßÖÇµ.
+\
+java:S1854=":Remove this useless assignment to local variable "sheet1".(»ÚÖ’ıÿÿÿÿ8ßÖÇµ.
+l
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(˜„°ÿÿÿÿÿ8éÂÒÄµ.
+h
+java:S1192O"KDefine a constant instead of duplicating this literal "01/02/2020" 7 times.(çúé“8¾´æÇµ.
+L
+java:S3740M"/Provide the parametrized type for this generic.(á…‘ı8¾´æÇµ.
+g
+java:S1192N"KDefine a constant instead of duplicating this literal "01/01/2020" 8 times.(ŒÃèQ8öõ—Çµ.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¹¸’Ëüÿÿÿÿ8–¾èÇµ.
